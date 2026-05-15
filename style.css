@@ -1,0 +1,57 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(to left, #004f7c, #ffffff);
+}
+
+
+.titulo{
+    font-family:"Bebas Neue", sans-serif;
+    color: rgba(0, 90, 194, 0.658);
+    font-size: 150px;
+    text-align: center;
+}
+
+.versos {
+    text-align: center;
+    font-family: cursive;
+    color: rgb(0, 54, 116);
+    margin-top: 5px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.Iceman{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    color: rgba(0, 90, 194, 0.658);
+    font-weight: bolder;
+    font-size: 130px;
+}
+
+.img-container {
+        display: flex;
+        justify-content: center; 
+        align-items: center;    
+        height: 100vh;    
+        margin-bottom: -100px;  
+        margin-top: -90px;    
+ }
+
+#finalização {
+    margin-top: 100px;
+    text-align: end;
+    font-size: 15px;
+    font-family: cursive;
+    color: rgb(0, 44, 73);
+}
+
+.data{
+    text-align: end;
+    font-size: 25px;
+    font-family: cursive;
+    color: rgb(0, 44, 73);
+}
