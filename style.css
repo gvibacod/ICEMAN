@@ -49,9 +49,14 @@ body{
     color: rgb(0, 44, 73);
 }
 
-.data{
-    text-align: end;
+.text-button{
     font-size: 25px;
     font-family: cursive;
-    color: rgb(0, 44, 73);
+    color: rgb(0, 56, 119);
+}
+
+.button-container{
+        display: flex;
+        justify-content: flex-end; 
+        margin-top: 5px;
 }
